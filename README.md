@@ -26,4 +26,4 @@ This project was built and developed with the help of this programs and OS:
 # Authors
 ___________________________________________________________________________________________________
 1. Kevin Kipyegon - Development and Documentation [soy](https://github.com/Soykipyegon)
-2. Steven Chege - Development and Documentation
+2. Steven Chege - Development and Documentation [chesteve](https://github.com/Chesteve77)
